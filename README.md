@@ -1,13 +1,24 @@
 # MA-EJ-Grant-Data
-This is the repository for [MA Grant Overview](https://tuftsgis.maps.arcgis.com/apps/instant/notification/index.html?appid=4188dd41757741c8959d5b2abc4fb6d3)
+This is the repository for the Tufts University DATA297 Special Topics on Climate Change and Justice Analytics course project, sponsored by the Executive Office of Energy and Environmental Affairs (EEA).
+This project proposed MA Grant Overview, an interactive map thatshowcases the locations of various grants. The map is overlaid with an Environmental Justice (EJ) layer, providing users with insights into how these grants support and benefit nearby EJ communities. This tool raises awareness and fosters understanding of the impact of grant funding on environmental justice areas.
 
-This project inlcudes following grant information
- -  BuzzardsBayNEP_grants_2000-2023Download BuzzardsBayNEP_grants_2000-2023
-Coastal Zone Management Grants (Coastal Pollutant, Coastal Habitat, and Coastal Resillience)Download Coastal Zone Management Grants (Coastal Pollutant, Coastal Habitat, and Coastal Resillience)
-Sustainable Materials Recovery Program GrantDownload Sustainable Materials Recovery Program Grant
-MassDEP Commercial Refrigeration GrantDownload MassDEP Commercial Refrigeration Grant
-Reduce Reuse Repair Micro GrantsDownload Reduce Reuse Repair Micro Grants
-Recycling Resue Business Development GrantDownload Recycling Resue Business Development Grant
-Competitive Green Community GrantsDownload Competitive Green Community Grants
-- Toxics Use Reduction Institute[TURI](https://www.turi.org/grants/)
-Water Management Act Grants
+Grant Programs Featured:
+- Buzzards Bay National Estuary Program ([BBNEP](https://buzzardsbay.org/))
+- Competitive Green Communities (CGC) Grant
+- Drinking Water State Revolving Funds ([DSWRF](https://www.mass.gov/state-revolving-fund-srf-financial-assistance-program))
+- 
+- Sustainable Materials Recovery Program (SMRP)
+- Recycling & Reuse Business Development (RBDG) Grant
+- Water Management Act Grant Programs (SWMI)
+- Toxics Use Reduction Institute ([TURI](https://www.turi.org/grants/)) Grant
+
+- Reduce Reuse Repair Micro ([RRPM](https://www.mass.gov/how-to/massdep-reduce-reuse-repair-micro-grant)) Grant
+
+- MassDEP Emerging Contaminants in Small or Disadvantaged Communities Grant ([EC-SDC](https://www.mass.gov/info-details/emerging-contaminants-in-small-or-disadvantaged-communities-grant))
+- [MassDEP PFAS Grant](https://www.mass.gov/info-details/water-resources-grants-financial-assistance)
+- [Mass Gap Energy Grant](https://www.mass.gov/info-details/massachusetts-gap-energy-grant-program)
+
+- Mass Office of Coastal Zone Management ([CZM](https://www.mass.gov/info-details/czm-grant-viewer))
+    -- Coastal Habitat Grant
+    -- Coastal Habitat and Water Quality (CHWQ) Grants
+    -- Coastal Pollutant Remediation (CPR) Grant Program
