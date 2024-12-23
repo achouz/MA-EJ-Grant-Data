@@ -1,7 +1,9 @@
 # MA-EJ-Grant-Data
 This repository houses the Tufts University DATA297 Special Topics on Climate Change and Justice Analytics course project, sponsored by the Executive Office of Energy and Environmental Affairs (EEA).
 
-The project features an interactive map that highlights the locations of various grants, overlaid with an Environmental Justice (EJ) layer. This map provides users with valuable insights into how these grants support and benefit nearby EJ communities, raising awareness and promoting a deeper understanding of the impact of grant funding on environmental justice areas.
+This project employs various methods to extract tabular data from grant-related PDF and HTML reports, including advanced techniques to accurately parse and structure data. Named Entity Recognition (NER) is then used to extract location information, which is converted into geographic coordinates using the Google Maps API.
+
+The processed data is visualized on an interactive map that highlights the locations of various grants, overlaid with an Environmental Justice (EJ) layer. This map provides users with valuable insights into how these grants support and benefit nearby EJ communities, raising awareness and promoting a deeper understanding of the impact of grant funding on environmental justice areas.
 
 Explore the map here:
 [Grant Overview for MA Environmental Justice Blocks](https://arcg.is/L5qWO)
