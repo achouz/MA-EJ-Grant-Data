@@ -1,6 +1,6 @@
 # MA-EJ-Grant-Data
 This is the repository for the Tufts University DATA297 Special Topics on Climate Change and Justice Analytics course project, sponsored by the Executive Office of Energy and Environmental Affairs (EEA).
-This project proposed MA Grant Overview, an interactive map thatshowcases the locations of various grants. The map is overlaid with an Environmental Justice (EJ) layer, providing users with insights into how these grants support and benefit nearby EJ communities. This tool raises awareness and fosters understanding of the impact of grant funding on environmental justice areas.
+This project proposed (MA Grant Overview[Grant Overview for MA Environmental Justice Blocks](https://arcg.is/L5qWO), an interactive map that showcases the locations of various grants. The map is overlaid with an Environmental Justice (EJ) layer, providing users with insights into how these grants support and benefit nearby EJ communities. This tool raises awareness and fosters understanding of the impact of grant funding on environmental justice areas.
 
 Grant Programs Featured:
 - Buzzards Bay National Estuary Program ([BBNEP](https://buzzardsbay.org/))
